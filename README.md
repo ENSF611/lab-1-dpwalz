@@ -1,19 +1,20 @@
 # Lab-1: Setup (Practice github classroom)
 ## Assignment
 ### Task: Submit to complete this assignment
- Due September 30 at 5:00 PM
-Clone this repository to your local computer.
-Open Jupyter notebook ml-lab-1.ipynb
-Change author name to your name.
-Save. git add and commit change.
-Copy the code below and run in a code cell in Jupyter notebook.
-Save. git add and commit change.
-Run the second cell to display all conda environments.
-Save. git add and commit change.
-git push changes to github.
-import sys
+Due September 30 at 5:00 PM
+.
 
+1. Clone this repository to your local computer.
+2. Open Jupyter notebook ml-lab-1.ipynb
+3. Change author name to your name.
+4. Save. git add and commit change.
+5. Copy the code below and run in a code cell in Jupyter notebook.
+6. Save. git add and commit change.
+7. Run the second cell to display all conda environments.
+8. Save. git add and commit change.
+9. git push changes to github.
 ```
+import sys
 print("Python version:", sys.version)
 
  
